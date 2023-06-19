@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+G:\Visual Studio\VC\Tools\MSVC\14.35.32215\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\User\source\repos\WinForm\WinForm\MyForm.h(121,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\WinForm\WinForm\MyForm.h(121,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\WinForm\WinForm\MyForm.h(656,10): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  WinForm.vcxproj -> C:\Users\User\source\repos\WinForm\x64\Debug\WinForm.exe

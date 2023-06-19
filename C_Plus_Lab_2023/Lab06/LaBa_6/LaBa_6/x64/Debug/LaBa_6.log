@@ -1,0 +1,6 @@
+﻿  LaBa_6.cpp
+C:\Users\User\source\repos\LaBa_6\LaBa_6\LaBa_6.cpp(42,42): warning C4267: =: преобразование из "size_t" в "long"; возможна потеря данных
+C:\Users\User\source\repos\LaBa_6\LaBa_6\LaBa_6.cpp(68,21): warning C4477: "fprintf": в строке форматирования "%s" требуется аргумент типа "char *", но вариативный аргумент "1" имеет тип "int"
+C:\Users\User\source\repos\LaBa_6\LaBa_6\LaBa_6.cpp(68,21): warning C4313: fprintf: конфликт "%s" в строке формата с аргументом 1 типа "int"
+C:\Users\User\source\repos\LaBa_6\LaBa_6\LaBa_6.cpp(129,9): warning C4101: AlfScore: неиспользованная локальная переменная
+  LaBa_6.vcxproj -> C:\Users\User\source\repos\LaBa_6\x64\Debug\LaBa_6.exe

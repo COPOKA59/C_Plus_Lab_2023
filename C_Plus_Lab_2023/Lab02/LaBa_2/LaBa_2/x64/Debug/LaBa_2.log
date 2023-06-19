@@ -1,0 +1,3 @@
+﻿  LaBa_2.cpp
+C:\Users\User\source\repos\LaBa_2\LaBa_2\LaBa_2.cpp(85,29): warning C4244: =: преобразование "double" в "short", возможна потеря данных
+  LaBa_2.vcxproj -> C:\Users\User\source\repos\LaBa_2\x64\Debug\LaBa_2.exe

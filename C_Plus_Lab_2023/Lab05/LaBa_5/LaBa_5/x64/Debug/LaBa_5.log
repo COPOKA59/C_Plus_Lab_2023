@@ -1,0 +1,4 @@
+﻿  LaBa_5.cpp
+C:\Users\User\source\repos\LaBa_5\LaBa_5\LaBa_5.cpp(44,68): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_5\LaBa_5\LaBa_5.cpp(120,14): warning C4101: j: неиспользованная локальная переменная
+  LaBa_5.vcxproj -> C:\Users\User\source\repos\LaBa_5\x64\Debug\LaBa_5.exe

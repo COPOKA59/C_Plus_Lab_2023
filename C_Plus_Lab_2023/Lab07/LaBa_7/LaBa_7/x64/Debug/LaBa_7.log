@@ -1,0 +1,5 @@
+﻿  LaBa_7.cpp
+C:\Users\User\source\repos\LaBa_7\LaBa_7\LaBa_7.cpp(56,61): warning C4244: =: преобразование "float" в "unsigned short", возможна потеря данных
+C:\Users\User\source\repos\LaBa_7\LaBa_7\LaBa_7.cpp(83,38): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\User\source\repos\LaBa_7\LaBa_7\LaBa_7.cpp(83,38): message : заполнители и их параметры ожидают переменное число аргументов в количестве 1, но было предоставлено 2
+  LaBa_7.vcxproj -> C:\Users\User\source\repos\LaBa_7\x64\Debug\LaBa_7.exe

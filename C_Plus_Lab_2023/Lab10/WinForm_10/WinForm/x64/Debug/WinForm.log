@@ -1,0 +1,28 @@
+﻿  Cone.cpp
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Cone.cpp(95,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Cone.cpp(96,51): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Cone.cpp(97,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Cone.cpp(109,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Cone.cpp(112,23): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  MyForm.cpp
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Lab10.h(8,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Lab10.h(9,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Lab10.h(10,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Lab10.h(11,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Lab10.h(12,22): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Lab10.h(19,48): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Lab10.h(20,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Lab10.h(29,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Lab10.h(30,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Lab10.h(31,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Lab10.h(32,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\Lab10.h(33,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\MyForm.h(616,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\MyForm.h(615,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\MyForm.h(614,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\MyForm.h(613,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\MyForm.h(612,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\MyForm.h(657,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Cone.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  WinForm.vcxproj -> C:\Users\User\source\repos\LaBa_8_12\WinForm_10\x64\Debug\WinForm.exe

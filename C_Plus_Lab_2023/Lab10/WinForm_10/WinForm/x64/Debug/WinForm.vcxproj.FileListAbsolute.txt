@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\WinForm\WinForm\x64\Debug\WinForm.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\WinForm\WinForm\x64\Debug\WinForm.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\WinForm\WinForm\x64\Debug\WinForm.MyForm.resources
+C:\Users\User\source\repos\WinForm\WinForm\x64\Debug\WinForm.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\LaBa_8_12\WinForm_9\WinForm\x64\Debug\WinForm.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\LaBa_8_12\WinForm_9\WinForm\x64\Debug\WinForm.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\LaBa_8_12\WinForm_9\WinForm\x64\Debug\WinForm.MyForm.resources
+C:\Users\User\source\repos\LaBa_8_12\WinForm_9\WinForm\x64\Debug\WinForm.vcxproj.GenerateResource.cache
+C:\Users\Student\source\repos\BigLababa\WinForm_9\WinForm_9\WinForm\x64\Debug\WinForm.vcxproj.AssemblyReference.cache
+C:\Users\Student\source\repos\BigLababa\WinForm_9\WinForm_9\WinForm\x64\Debug\WinForm.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\BigLababa\WinForm_9\WinForm_9\WinForm\x64\Debug\WinForm.MyForm.resources
+C:\Users\Student\source\repos\BigLababa\WinForm_9\WinForm_9\WinForm\x64\Debug\WinForm.vcxproj.GenerateResource.cache
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\x64\Debug\WinForm.vcxproj.AssemblyReference.cache
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\x64\Debug\WinForm.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\x64\Debug\WinForm.MyForm.resources
+C:\Users\User\source\repos\LaBa_8_12\WinForm_10\WinForm\x64\Debug\WinForm.vcxproj.GenerateResource.cache

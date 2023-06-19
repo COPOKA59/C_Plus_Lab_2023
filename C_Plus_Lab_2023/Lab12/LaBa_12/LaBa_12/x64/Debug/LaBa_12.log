@@ -1,0 +1,8 @@
+﻿  LaBa_12.cpp
+C:\Users\User\source\repos\LaBa_12\LaBa_12\Queue.h(115,1): warning C4267: return: преобразование из "size_t" в "unsigned long"; возможна потеря данных
+C:\Users\User\source\repos\LaBa_12\LaBa_12\Queue.h(114,1): message : во время компиляции функции-члена класс шаблон "unsigned long Queue<short>::GetSize(void)"
+C:\Users\User\source\repos\LaBa_12\LaBa_12\LaBa_12.cpp(130,10): message : выполняется компиляция ссылки на экземпляр шаблон функции "unsigned long Queue<short>::GetSize(void)"
+C:\Users\User\source\repos\LaBa_12\LaBa_12\Queue.h(32,1): message : во время компиляции функции-члена класс шаблон "Queue<short>::Queue(void)"
+C:\Users\User\source\repos\LaBa_12\LaBa_12\LaBa_12.cpp(158,15): message : выполняется компиляция ссылки на экземпляр шаблон функции "Queue<short>::Queue(void)"
+C:\Users\User\source\repos\LaBa_12\LaBa_12\LaBa_12.cpp(158,15): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "Queue<short>"
+  LaBa_12.vcxproj -> C:\Users\User\source\repos\LaBa_12\x64\Debug\LaBa_12.exe

@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\User\source\repos\LaBa_8_12\WinForm_9\WinForm\Lab9.h(50): warning C4715: CravCone: значение возвращается не при всех путях выполнения
+  Cone.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  WinForm.vcxproj -> C:\Users\User\source\repos\LaBa_8_12\WinForm_9\x64\Debug\WinForm.exe
